@@ -198,6 +198,7 @@ nav ul li a:hover::after {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 30px;
+    justify-content: center;
 }
 
 .project-card {
@@ -246,6 +247,7 @@ nav ul li a:hover::after {
     gap: 15px;
     margin-top: auto;
     flex-wrap: wrap; 
+    justify-content: center;
 }
 
 .btn {
