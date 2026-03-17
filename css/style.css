@@ -259,7 +259,7 @@ nav ul li a:hover::after {
     font-weight: 700;
     text-align: center;
     transition: all 0.3s ease;
-    flex: 1;
+    flex: 0 1 auto; 
     letter-spacing: 0.5px;
     border: 2px solid transparent;
     min-width: 120px;
