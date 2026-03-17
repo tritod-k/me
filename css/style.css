@@ -245,6 +245,7 @@ nav ul li a:hover::after {
     display: flex;
     gap: 15px;
     margin-top: auto;
+    flex-wrap: wrap; 
 }
 
 .btn {
@@ -259,6 +260,7 @@ nav ul li a:hover::after {
     flex: 1;
     letter-spacing: 0.5px;
     border: 2px solid transparent;
+    min-width: 120px;
 }
 
 .btn:hover {
