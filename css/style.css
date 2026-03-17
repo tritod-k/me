@@ -262,7 +262,7 @@ nav ul li a:hover::after {
     flex: 0 1 auto; 
     letter-spacing: 0.5px;
     border: 2px solid transparent;
-    min-width: 120px;
+    min-width: 160px;
 }
 
 .btn:hover {
